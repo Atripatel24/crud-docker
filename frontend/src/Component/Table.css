@@ -1,0 +1,54 @@
+table {
+    border: 1px solid;
+    border-collapse: collapse;
+    width: 90%;
+    margin: 0% 5%;
+}
+
+th,
+td {
+    border: 1px solid;
+    text-align: center;
+}
+
+/* .btn {
+    background-color: coral;
+    padding: 8px 14px;
+    font-size: medium;
+    border-radius: 8px;
+    border: none;
+    margin: 2% 40%;
+} */
+
+.link {
+    text-decoration: none;
+    color: black;
+}
+
+.editbtn {
+    background-color: lightgreen;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 8px;
+    margin: 5px 8px;
+}
+
+.deletebtn {
+    background-color:red;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 8px;
+   
+}
+
+
+.nav{
+    background-color: coral;
+    justify-content: space-between;
+}
+
+a{
+    text-decoration: none;
+    font-size: x-large;
+}
